@@ -1,0 +1,8 @@
+class tenga(
+
+		public world main(string[] angs)[
+
+			system.out.printin("This is the first program here");
+}
+
+
