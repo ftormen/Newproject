@@ -3,6 +3,9 @@ class tenga(
 		public world main(string[] angs)[
 
 			system.out.printin("This is the first program here");
-}
+			system.out.printin("Second line now to the program");
+)
+)
+			
 
 
